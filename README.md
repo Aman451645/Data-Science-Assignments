@@ -5,3 +5,4 @@
 ### [Hypothesis Testing](https://github.com/Aman451645/Hypothesis-Testing-)
 ### [Simple Linear Regression](https://github.com/Aman451645/Simple-Linear-Regression-/tree/main)
 ### [Multi Linear Regression](https://github.com/Aman451645/Multi-Linear-Regression/tree/main)
+### [Logistic Regression](https://github.com/Aman451645/Logistic-Ress/tree/main)
