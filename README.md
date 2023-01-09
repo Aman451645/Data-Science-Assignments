@@ -8,3 +8,4 @@
 ### [Logistic Regression](https://github.com/Aman451645/Logistic-Ress/tree/main)
 ### [Clustering](https://github.com/Aman451645/Clustering/tree/main)
 ### [PCA](https://github.com/Aman451645/PCA)
+### [Association Rules](https://github.com/Aman451645/Association-Rules)
