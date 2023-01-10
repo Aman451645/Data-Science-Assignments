@@ -12,3 +12,4 @@
 ### [Recommendation system](https://github.com/Aman451645/Recommendation-system)
 ### [Text Mining](https://github.com/Aman451645/Text-Mining)
 ### [Naive Bayes](https://github.com/Aman451645/Naive-Bayes)
+### [KNN](https://github.com/Aman451645/KNN)
