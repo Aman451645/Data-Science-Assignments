@@ -14,3 +14,4 @@
 ### [Naive Bayes](https://github.com/Aman451645/Naive-Bayes)
 ### [KNN](https://github.com/Aman451645/KNN)
 ### [Decision Trees Company](https://github.com/Aman451645/Decision-Trees)
+### [Random Forests](https://github.com/Aman451645/Random-Forests)
