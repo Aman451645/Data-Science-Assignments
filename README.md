@@ -11,3 +11,4 @@
 ### [Association Rules](https://github.com/Aman451645/Association-Rules)
 ### [Recommendation system](https://github.com/Aman451645/Recommendation-system)
 ### [Text Mining](https://github.com/Aman451645/Text-Mining)
+### [Naive Bayes](https://github.com/Aman451645/Naive-Bayes)
