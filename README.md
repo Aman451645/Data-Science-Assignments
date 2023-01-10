@@ -16,3 +16,4 @@
 ### [Decision Trees Company](https://github.com/Aman451645/Decision-Trees)
 ### [Random Forests](https://github.com/Aman451645/Random-Forests)
 ### [Neural Networks](https://github.com/Aman451645/Neural-Networks)
+### [Support Vector Machines](https://github.com/Aman451645/Support-Vector-Machines)
