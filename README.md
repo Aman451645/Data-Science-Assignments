@@ -13,4 +13,4 @@
 ### [Text Mining](https://github.com/Aman451645/Text-Mining)
 ### [Naive Bayes](https://github.com/Aman451645/Naive-Bayes)
 ### [KNN](https://github.com/Aman451645/KNN)
-### [Decision Trees](https://github.com/Aman451645/Decision-Trees)
+### [Decision Trees Company](https://github.com/Aman451645/Decision-Trees)
