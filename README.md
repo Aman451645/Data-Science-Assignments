@@ -15,3 +15,4 @@
 ### [KNN](https://github.com/Aman451645/KNN)
 ### [Decision Trees Company](https://github.com/Aman451645/Decision-Trees)
 ### [Random Forests](https://github.com/Aman451645/Random-Forests)
+### [Neural Networks](https://github.com/Aman451645/Neural-Networks)
